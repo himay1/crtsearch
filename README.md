@@ -18,11 +18,17 @@
 ## 如何使用
 
 ![image1](https://github.com/himay1/crtsearch/blob/main/img/1.jpg)
-### 单个域名查询
-
+### 安装
 ```bash
-./crtsearch -t example.com
-./crtsearch -T domain.txt
+python -r requirements.txt
+```
+### 单个域名查询
+```bash
+python crtsearch.py -t example.com
+```
+### 批量域名查询
+```bash
+python crtsearch.py -T domain.txt
 ```
 ![image1](https://github.com/himay1/crtsearch/blob/main/img/2.jpg)
 ![image1](https://github.com/himay1/crtsearch/blob/main/img/3.jpg)
