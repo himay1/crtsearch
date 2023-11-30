@@ -17,6 +17,7 @@
 
 ## 如何使用
 
+https://github.com/himay1/crtsearch/blob/main/img/1.jpg
 ### 单个域名查询
 
 ```bash
